@@ -1,2 +1,2 @@
-# misc
-LCCC Web Dev Team Miscellaneous
+# LCCC Web Dev Team Miscellaneous
+
